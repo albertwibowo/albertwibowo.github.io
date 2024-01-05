@@ -6,8 +6,22 @@
     <description>Recent content on Albert Wibowo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 05 Jan 2024 10:45:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2024 11:55:04 +0000</lastBuildDate>
     <atom:link href="https://albertwibowo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project1</title>
+      <link>https://albertwibowo.github.io/projects/project1/</link>
+      <pubDate>Fri, 05 Jan 2024 11:55:04 +0000</pubDate>
+      <guid>https://albertwibowo.github.io/projects/project1/</guid>
+      <description>A pseudo project.</description>
+    </item>
+    <item>
+      <title>about me</title>
+      <link>https://albertwibowo.github.io/about/</link>
+      <pubDate>Fri, 05 Jan 2024 11:46:32 +0000</pubDate>
+      <guid>https://albertwibowo.github.io/about/</guid>
+      <description>Hello, my name is Albert Wibowo. I am a machine learning scientist.</description>
+    </item>
     <item>
       <title>Example</title>
       <link>https://albertwibowo.github.io/posts/example/</link>
