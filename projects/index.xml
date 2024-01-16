@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Albert Wibowo</title>
+    <title>Projects on Home</title>
     <link>https://albertwibowo.github.io/projects/</link>
-    <description>Recent content in Projects on Albert Wibowo</description>
+    <description>Recent content in Projects on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 05 Jan 2024 11:55:04 +0000</lastBuildDate>
     <atom:link href="https://albertwibowo.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project1</title>
+      <title>Low cost topic classification</title>
+      <link>https://albertwibowo.github.io/projects/project2/</link>
+      <pubDate>Fri, 05 Jan 2024 11:55:04 +0000</pubDate>
+      <guid>https://albertwibowo.github.io/projects/project2/</guid>
+      <description>I implemented an algorithm based on a research paper and developed a streamlit app on top of it. The algorithm performs topic classifcation based on the idea of a compression algorithm, a distance metric and also KNN algorithm. Here is the link to the app: https://low-cost-classification.streamlit.app/ Feel free to use it!</description>
+    </item>
+    <item>
+      <title>Statistical drift detection</title>
       <link>https://albertwibowo.github.io/projects/project1/</link>
       <pubDate>Fri, 05 Jan 2024 11:55:04 +0000</pubDate>
       <guid>https://albertwibowo.github.io/projects/project1/</guid>
-      <description>A pseudo project.</description>
+      <description>I developed an app to detect covariate drift based on simple statistical methods. The app is up on streamlit cloud: https://statistical-data-drift-detection.streamlit.app/ Feel free to try it!</description>
     </item>
   </channel>
 </rss>

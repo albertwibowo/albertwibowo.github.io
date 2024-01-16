@@ -1,26 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Albert Wibowo</title>
+    <title>Home</title>
     <link>https://albertwibowo.github.io/</link>
-    <description>Recent content on Albert Wibowo</description>
+    <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 05 Jan 2024 11:55:04 +0000</lastBuildDate>
     <atom:link href="https://albertwibowo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project1</title>
+      <title>Low cost topic classification</title>
+      <link>https://albertwibowo.github.io/projects/project2/</link>
+      <pubDate>Fri, 05 Jan 2024 11:55:04 +0000</pubDate>
+      <guid>https://albertwibowo.github.io/projects/project2/</guid>
+      <description>I implemented an algorithm based on a research paper and developed a streamlit app on top of it. The algorithm performs topic classifcation based on the idea of a compression algorithm, a distance metric and also KNN algorithm. Here is the link to the app: https://low-cost-classification.streamlit.app/ Feel free to use it!</description>
+    </item>
+    <item>
+      <title>Statistical drift detection</title>
       <link>https://albertwibowo.github.io/projects/project1/</link>
       <pubDate>Fri, 05 Jan 2024 11:55:04 +0000</pubDate>
       <guid>https://albertwibowo.github.io/projects/project1/</guid>
-      <description>A pseudo project.</description>
+      <description>I developed an app to detect covariate drift based on simple statistical methods. The app is up on streamlit cloud: https://statistical-data-drift-detection.streamlit.app/ Feel free to try it!</description>
     </item>
     <item>
-      <title>about me</title>
+      <title>About me</title>
       <link>https://albertwibowo.github.io/about/</link>
       <pubDate>Fri, 05 Jan 2024 11:46:32 +0000</pubDate>
       <guid>https://albertwibowo.github.io/about/</guid>
-      <description>Hello, my name is Albert Wibowo. I am a machine learning scientist.</description>
+      <description>Hello! Welcome to my blog. My name is Albert Wibowo. I am a machine learning scientist with MLOps experience under the belt. I hold an Economics and Statistics degree from the University of Edinburgh. I have been working as a machine learning scientist for 5 years. I started my journey in a consultancy before moving to a scale-up tech company.&#xA;I am passionate about machine learning and writing. I aim to use this blog to share my personal projects and also my articles.</description>
     </item>
     <item>
       <title>Example</title>
