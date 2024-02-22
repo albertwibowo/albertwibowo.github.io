@@ -27,14 +27,14 @@
       <link>https://albertwibowo.github.io/about/</link>
       <pubDate>Fri, 05 Jan 2024 11:46:32 +0000</pubDate>
       <guid>https://albertwibowo.github.io/about/</guid>
-      <description>Hello! Welcome to my blog. My name is Albert Wibowo. I am a machine learning scientist with MLOps experience under the belt. I hold an Economics and Statistics degree from the University of Edinburgh. I have been working as a machine learning scientist for 5 years. I started my journey in a consultancy before moving to a scale-up tech company.&#xA;I am passionate about machine learning and writing. I aim to use this blog to share my personal projects and also my articles.</description>
+      <description>Hello! Welcome to my site. My name is Albert Wibowo. I am a machine learning scientist with engineering and MLOps experience. I graduated from the University of Edinburgh with Economics and Statistics degree. I have been working as a machine learning scientist for a few years, starting my journey in a consultancy before moving to a scale-up tech company.&#xA;My passion lies in developing ML based products. I will use this site as a platform to share my hobby projects which I hope can be informative.</description>
     </item>
     <item>
-      <title>Example</title>
-      <link>https://albertwibowo.github.io/posts/example/</link>
-      <pubDate>Fri, 05 Jan 2024 10:45:49 +0000</pubDate>
-      <guid>https://albertwibowo.github.io/posts/example/</guid>
-      <description>Hello, this is just an example</description>
+      <title>My posts</title>
+      <link>https://albertwibowo.github.io/posts/</link>
+      <pubDate>Fri, 05 Jan 2024 11:46:32 +0000</pubDate>
+      <guid>https://albertwibowo.github.io/posts/</guid>
+      <description>Hello, I write all of my articles on Medium. So please proceed to my Medium profile: https://albert14wibowo.medium.com/</description>
     </item>
   </channel>
 </rss>
